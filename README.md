@@ -10,4 +10,4 @@ with experience across backend development, databases, APIs, and deployment.
 
 ### Links
 
-[Portfolio](https://bagoespantera.vercel.app) · [LinkedIn](https://www.linkedin.com/in/bagoes-pantera) · [Codewars](https://www.codewars.com/users/panteraa) · [LeetCode](https://leetcode.com/panteraa/) · [HackerRank](https://www.hackerrank.com/bagoespantera)
+[Portfolio](https://bagoespantera.vercel.app) · [LinkedIn](https://www.linkedin.com/in/bagoes-pantera) · [Gitlab](https://gitlab.com/BagoesPantera) · [Codewars](https://www.codewars.com/users/panteraa) · [LeetCode](https://leetcode.com/panteraa/) · [HackerRank](https://www.hackerrank.com/bagoespantera)
